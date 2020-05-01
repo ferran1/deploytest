@@ -6,5 +6,8 @@
     "psr-0": {
       "": "src/"
     }
+  },
+  "require": {
+    "monolog/monolog": "^2.0"
   }
 }
